@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
  <meta charset="UTF=8">
+ <title>Final Project by Muriel</title>
 </head>
 <body>
      <header>
