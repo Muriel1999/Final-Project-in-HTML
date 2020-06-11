@@ -35,8 +35,7 @@
              <h2>More about me</h2>
                    <details>
                         <summary>My Childhood</summary>
-                        <p>I was born in Kinnigoli.I did my schooling in Maryvale Higher Primary School and PUC in MGM college,Udupi.As a child I always wanted to be doctor but later became interested 
-                        in engineering.I spend my free time playing badminton,cycling,browsing helpful applications and by listening songs.</p>
+                        <p>I was born in Kinnigoli.I did my schooling in Maryvale Higher Primary School and PUC in MGM college,Udupi.As                             a child I always wanted to be doctor but later became interested in engineering.I spend my free time playing                             badminton,cycling,browsing helpful applications and by listening songs.</p>
                     </details>
     </section>
     <footer>
