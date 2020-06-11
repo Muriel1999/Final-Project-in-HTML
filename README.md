@@ -1,9 +1,7 @@
-# Final-Project-in-HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
  <meta charset="UTF=8">
- <title>Muriel Samira pinto</title>
 </head>
 <body>
      <header>
